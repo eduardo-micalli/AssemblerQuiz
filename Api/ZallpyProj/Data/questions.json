@@ -1,0 +1,30 @@
+{
+  "questions": [
+    {
+      "assemblerName": "BMW",
+      "correctAnswer": "3"
+    },
+    {
+      "assemblerName": "Toyota",
+      "correctAnswer": "4"
+    },
+    {
+      "assemblerName": "Mini",
+      "correctAnswer": "1"
+    },
+    {
+      "assemblerName": "General Motors",
+      "correctAnswer": "2"
+    },
+    {
+      "assemblerName": "Rolls-Royce",
+      "correctAnswer": "1"
+    }
+  ],
+  "answers": [
+    "Inglaterra",
+    "USA",
+    "Alemanha",
+    "Japão"
+  ]
+}
